@@ -2,7 +2,7 @@
 
 Follow https://github.com/edeltech/tensorflow-lite-on-aws-lambda/tree/master to setup the serverless framework on your system.
 
-Copy paste the app.py, Dockerfile, serverless.yml to your project directory to replace the default ones.
+Copy paste the app.py, Dockerfile, tflite model, serverless.yml to your project directory to replace the default ones.
 
 Change the bucket names to the ones you have existing.
 
